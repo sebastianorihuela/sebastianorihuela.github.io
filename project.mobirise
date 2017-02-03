@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_1152",
-    "currentPage": "Ps Credentials.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 37,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -120,7 +120,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word projects.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sebastianorihuela.github.io/Sebastain O. Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -204,15 +204,16 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_name": "features7",
           "_anchor": "features7-c",
           "_params": {
             "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -225,7 +226,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -234,16 +235,17 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
-          "title1": "Goal #1",
+          "title1": "Digital Design",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "My first goal is that i want to become a digital designer for companys or start my own business",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -251,7 +253,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "bootstrap",
+              "name": "video-play",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -260,30 +262,15 @@
               "newWindow": false
             }
           },
-          "title2": "Goal #2",
+          "title2": "Video Game Design",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "My second goal is i want to travel the world and experience and r\u001becord all my time",
+          "caption2": "My second goal is I want to have the oppurtunity to be able to design a game. I would also like to create and design a video game",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title3": "Goal #3",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "My third goal is to go to university and get a good education",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "menu",
+              "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -291,9 +278,25 @@
               "color": "#fff"
             }
           },
-          "title4": "Goal #4",
+          "title3": "School",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "My third goal is to go to university and get a good education",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title4": "",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "My fourth goal to be able to get a job that pays well and i love",
+          "caption4": "My fourth goal is to become a photographer in my future and maybe do it for companies or start my own business",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -325,25 +328,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#312a2a"
-          },
-          "text1": "",
-          "text2": "Sebastian Orihuela is a student at Miami Arts Studio 6-12 Zelda Glazer, and I live in Miami, FL. I am in the Tech Production program. Ive been in the program for about 2 years now and have done at least &nbsp;26 projects and have been learning new skillz everyday.&nbsp;",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "_tags": [
@@ -382,6 +366,21 @@
           "text1": "<p><strong>Address</strong><br>4250 sw 130th ct<br><br></p>",
           "text2": "<strong>Contacts</strong><br>\nEmail: sorihuela@miamiartsstudio.comn<br>786 426 6585",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "My name is Sebastian Orihuela I was born March 17th, 2004 in Orlando, Floridal in Winter Park. I moved to Miami, Fl when I was 3 years ld and have grown up in Miami for my whole life. I am 12 years old in 7th grade. I attend Miami Arts Studio 6-12 Zelda Glazer",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     },
@@ -476,7 +475,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word projects.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sebastianorihuela.github.io/Sebastain O. Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -485,7 +484,7 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "images": [
               {
@@ -496,7 +495,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sebastian-orihuela-avengers-compilation-2000x2103-800x841.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sebastian-orihuela-avengers-compilation-2000x2103.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -536,34 +535,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sebastian-orihuela-marvel-symbols-2000x1973-800x789.jpg",
                 "image": "@PROJECT_PATH@/assets/images/sebastian-orihuela-marvel-symbols-2000x1973.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/sebastian-odvd-label-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sebastian-odvd-label-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/sebastian-o-2000x1000-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sebastian-o-2000x1000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-solargizer-sebastian-orihuela-2000x500-800x200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-solargizer-sebastian-orihuela-2000x500.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -671,103 +683,68 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word projects.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sebastianorihuela.github.io/Sebastain O. Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
+          "_name": "slider",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Awesome",
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Responsive",
-                "playVideo": false,
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "VIDEO SLIDE",
+                "showText": true,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Creative",
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": 1,
-            "showText": false,
-            "filter": true,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "fullScreen": true,
+            "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "gallery4-n",
-          "articleLayout": false,
-          "allItem": "All"
+          "_anchor": "slider-y",
+          "articleLayout": false
         }
       ]
     },
@@ -862,7 +839,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word projects.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sebastianorihuela.github.io/Sebastain O. Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1053,7 +1030,259 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word projects.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sebastianorihuela.github.io/Sebastain O. Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+        }
+      ]
+    },
+    "word projects.html": {
+      "settings": {
+        "title": "word projects.html",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-s",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/signature-384x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrater.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Audition.html\">Adobe Audition</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suit</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word projects.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sebastianorihuela.github.io/Sebastain O. Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ps Credentials.html\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe IL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premeir</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher 1</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "VIDEO SLIDE",
+                "showText": true,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-u",
+          "articleLayout": false
         }
       ]
     }
