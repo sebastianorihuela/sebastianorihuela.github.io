@@ -130,11 +130,11 @@
           "_anchor": "header1-1d",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
             "bgColor": "#262323",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -171,7 +171,7 @@
             "bgColor": "#262323",
             "showMeta": true
           },
-          "title": "A piece of my work",
+          "title": "Some of my work",
           "meta": ""
         },
         {
