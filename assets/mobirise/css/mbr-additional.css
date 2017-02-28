@@ -484,6 +484,10 @@ h6,
 #msg-box8-1r p {
   color: #fff;
 }
+#social-buttons4-1s .mbr-section-title,
+#social-buttons4-1s .btn-social {
+  color: #fff;
+}
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -563,11 +567,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-i .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #ext_menu-i .dropdown-item,
 #ext_menu-i .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #ext_menu-i .link:hover,
 #ext_menu-i .dropdown-item:hover,
@@ -624,11 +628,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-k .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #ext_menu-k .dropdown-item,
 #ext_menu-k .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #ext_menu-k .link:hover,
 #ext_menu-k .dropdown-item:hover,
@@ -685,11 +689,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-q .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #ext_menu-q .dropdown-item,
 #ext_menu-q .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #ext_menu-q .link:hover,
 #ext_menu-q .dropdown-item:hover,
@@ -746,11 +750,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-s .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #ext_menu-s .dropdown-item,
 #ext_menu-s .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #ext_menu-s .link:hover,
 #ext_menu-s .dropdown-item:hover,
@@ -807,11 +811,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-11 .link {
-  font-size: 0.7rem;
+  font-size: 0.85rem;
 }
 #ext_menu-11 .dropdown-item,
 #ext_menu-11 .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.921rem;
 }
 #ext_menu-11 .link:hover,
 #ext_menu-11 .dropdown-item:hover,
@@ -928,19 +932,16 @@ h6,
 #msg-box6-18 H3 {
   font-family: 'Roboto Slab', serif;
 }
-#features7-19 .card-subtitle {
+#features7-1t .card-subtitle {
   color: #bcbcbc;
 }
-#features7-19 .iconbox {
+#features7-1t .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
 }
-#features7-19 H4 {
+#features7-1t P {
+  text-align: center;
   color: #ffffff;
-}
-#features7-19 P {
-  color: #ffffff;
-  text-align: right;
 }
 #content7-1a DIV {
   color: #ffffff;
@@ -967,11 +968,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1f .link {
-  font-size: 0.7rem;
+  font-size: 0.85rem;
 }
 #ext_menu-1f .dropdown-item,
 #ext_menu-1f .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.921rem;
 }
 #ext_menu-1f .link:hover,
 #ext_menu-1f .dropdown-item:hover,
