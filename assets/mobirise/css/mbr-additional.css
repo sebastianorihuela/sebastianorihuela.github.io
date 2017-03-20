@@ -549,6 +549,13 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1y H3 {
+  color: #ffffff;
+}
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
