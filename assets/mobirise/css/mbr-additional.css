@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
@@ -474,6 +475,11 @@ h6,
 #ext_menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box5-1v P {
+  font-size: 72px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
   text-align: center;
@@ -484,11 +490,6 @@ h6,
 #social-buttons4-1s .mbr-section-title,
 #social-buttons4-1s .btn-social {
   color: #fff;
-}
-#msg-box5-1v P {
-  font-size: 72px;
-  font-family: 'Lora', serif;
-  color: #ffffff;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
